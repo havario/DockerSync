@@ -3,12 +3,4 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-alpine:3.20.6
-alpine:3.21.3
-gitlab/gitlab-ce:17.9.1-ce.0
-gitlab/gitlab-runner:alpine3.19-28632637
-
-ubuntu:22.04
-ubuntu:24.04
-ubuntu:25.04
-ubuntu:24.10
+nginx:1.27.4-alpine3.21
