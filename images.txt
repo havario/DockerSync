@@ -3,4 +3,5 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-gitlab/gitlab-runner:alpine3.21-f2f16993
+gitlab/gitlab-runner:alpine3.21-v17.9.1
+gitlab/gitlab-runner:alpine3.21-v17.8.3
